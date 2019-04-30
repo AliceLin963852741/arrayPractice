@@ -1,3 +1,5 @@
+//用來蒐集題庫和練習
+
 const inventors = [
     { first: 'Albert', last: 'Einstein', year: 1879, passed: 1955 },      // 76
     { first: 'Isaac', last: 'Newton', year: 1643, passed: 1727 },         // 84
